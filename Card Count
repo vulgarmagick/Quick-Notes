@@ -1,0 +1,8 @@
+2-6 = +1
+7-9 = 0
+10-Ace = -1
+
+Add or subtract based on every card you see to get the Running Counter32
+
+True Count =  running count/Decks remaining in the shoe
+ + count is in my favor, minus is in dealer's favor.  Bet on plus 
